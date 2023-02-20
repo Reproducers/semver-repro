@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.bric3.fireplace:fireplace-swing:0.0.1-rc3")
+    implementation("io.github.bric3.fireplace:fireplace-swing:0.0.1-SNAPSHOT")
 //    implementation("io.github.bric3.fireplace:fireplace-swing:0.0.1-SNAPSHOT")
 //    implementation("io.github.bric3.fireplace:fireplace-swing:0.+")
 }
